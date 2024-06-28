@@ -1,0 +1,60 @@
+navbar{
+    height: 80px;
+    display: flex;
+    align-items: center;
+ 
+    
+  }
+  .navbar-content{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 20px;
+  }
+  .navbar-left{
+      display: flex;
+      gap: 28px;
+  }
+  .navbar-menu{
+      display: flex;
+      gap: 28px;
+  }
+  .navbar-menu li a{
+    color: #696871;
+font-family: "DM Sans";
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -0.469px;
+  }
+  .hes{
+    color: #19191B;
+font-family: "DM Sans";
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -0.469px;
+border-bottom: 3px solid purple;
+
+  }
+  .btn1{
+    width: 211px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #FF7143;
+  cursor: pointer;
+  }
+  .btn1{
+    color: #FFF;
+    text-align: center;
+    font-family: "DM Sans";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.531px;
+  }
+  
